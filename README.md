@@ -9,6 +9,6 @@ these two are the frameworks that render 3d objects on 2d canvas, <a> href='http
 Tape.js also renders a part of objects done by mossales.
 <br />
 ### BHD.js file
-This file contains **All** the Animations Zpet uses for pets, they're javascript arrays stores inside ballz sub-variable.
+This file contains **All** the Animations Zpet uses for pets, they're javascript arrays stored inside ballz sub-variable.
 the `ballz` array contains all the animations, Every animation has frames, and every frame contains information of ballz. The renderer reads information of ballz frames of a system-selected animation array and renders them on screen.
 
