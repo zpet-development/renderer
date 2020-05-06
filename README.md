@@ -5,7 +5,7 @@ https://zpet-development.github.io/renderer/
 ## Checking files
 ### zdog.dist.js and tape.js
 <hr>
-these two are the frameworks that render 3d objects on 2d canvas, <a href='https://github.com/metafizzy/zdog'Zdog is a framework made by Metafizzy.</a>
+these two are the frameworks that render 3d objects on 2d canvas, <a href='https://github.com/metafizzy/zdog'>Zdog is a framework made by Metafizzy.</a>
 Tape.js also renders a part of objects done by mossales.
 <hr>
 ## BHD.js file
